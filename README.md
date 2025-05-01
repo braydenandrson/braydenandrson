@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone, I'm a Junior at UT Austin!<br>I study Electrical and Computer Engineering:<br>- Highly interested in low-level programming<br>- Currently interested in all things Rust :)
+Hey everyone, I'm a Junior at UT Austin!<br>I study Electrical and Computer Engineering:<br>- Highly interested in low-level programming<br>- Currently interested in all things Go :)
 
 
 ## 🌐 Socials:
